@@ -32,7 +32,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd projeto_auditoria_de_recursos_corporativos
    ```
 3. Execute o script principal:
    ```bash
