@@ -36,7 +36,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
    ```
 3. Execute o script principal:
    ```bash
-   python main.py
+   python projeto_auditoria_de_recursos_corporativos.py
    ```
  
 ## 🧠 Lógica e Estrutura do Código
