@@ -28,7 +28,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/seu-repositorio.git(https://github.com/Ricardo-Rufino-Projetos/portfolio-ricardo-oliveira-rufino)
+   git clone https://github.com/Ricardo-Rufino-Projetos/portfolio-ricardo-oliveira-rufino
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -41,8 +41,9 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `[Explique aqui em 1 ou 2 parágrafos como você pensou para construir a sua recursão e como o decorator foi acoplado no projeto]`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
+A lógica do código foi desenvolver uma forma de percorrer toda a estrutura financeira da empresa, mesmo com vários níveis de departamentos e subdepartamentos. Para isso, foi utilizada recursividade, permitindo que a função percorresse automaticamente cada parte do dicionário até encontrar os valores numéricos e realizar a soma do orçamento total. Também foram utilizados decorators para registrar a auditoria do processamento e medir o tempo de execução do sistema.
+
+* **Dados:** Os dados simulados da empresa foram estruturados em um dicionário aninhado, representando a hierarquia da empresa. A estrutura começa pela chave principal "Matriz", que representa a sede da empresa. Dentro dela existem vários departamentos, como "TI", "RH", "Financeiro" e "Logistica"...
  
 ## 👤 Autor
  
