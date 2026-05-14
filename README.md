@@ -53,5 +53,12 @@ Possuo perfil proativo, foco em resolução de problemas e facilidade para traba
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+root/: Arquivo de apresentação principal.
+/projeto-algoritmo-de-auditoria-de-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-desenhando-emojis-com-dados/:Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-engenharia-de-contexto-e-logica-fisica/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-engenharia-de-soluções-logicas/:Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-modularizacao/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-traduzindo-logica-para-python/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+/projeto-auditoria-de-recursos-corporativos/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+
