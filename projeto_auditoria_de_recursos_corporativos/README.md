@@ -47,7 +47,7 @@ A lógica do código foi desenvolver uma forma de percorrer toda a estrutura fin
  
 ## 👤 Autor
  
-* **Ricardo Oliveira Rufino** * LinkedIn: (https://www.linkedin.com/in/ricardo-oliveira-74bb73186)
+* **Ricardo Oliveira Rufino** * LinkedIn: https://www.linkedin.com/in/ricardo-oliveira-74bb73186
 * E-mail: rickoliveira20014@gmail.com
  
 ---
