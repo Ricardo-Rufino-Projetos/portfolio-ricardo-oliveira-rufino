@@ -28,7 +28,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   git clone https://github.com/SeuUsuario/seu-repositorio.git(https://github.com/Ricardo-Rufino-Projetos/portfolio-ricardo-oliveira-rufino)
    ```
 2. Acesse a pasta do projeto:
    ```bash
