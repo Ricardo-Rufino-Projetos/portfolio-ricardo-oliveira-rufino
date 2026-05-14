@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
  
 ## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de [Nome da Disciplina] do curso de [Nome do Curso]. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
+Este projeto foi desenvolvido como parte da disciplina de Programação de Computadores do curso de Análise e Desenvolvimento. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
  
 A solução foi arquitetada utilizando conceitos avançados de Python para garantir flexibilidade, performance e rastreabilidade.
  
@@ -46,8 +46,8 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **[Seu Nome Completo]** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
+* **Ricardo Oliveira Rufino** * LinkedIn: (https://www.linkedin.com/in/ricardo-oliveira-74bb73186)
+* E-mail: rickoliveira20014@gmail.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
