@@ -57,7 +57,7 @@ Atualmente ampliando conhecimentos em redes corporativas, administração de ser
 | **fluxos gramas e pseudocodigos de um caixa de supermercado** | fluxos gramas e pseudocodigos detalhados de um caixa de supermercado. | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo a logica em Python** | Transferindo pseudocódigos em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de contexto e logica e fisica** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-física/) |
-| **Projeto Auditoria de Recursos Coorporativos** | Criar um repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional.. | [Ver Projeto](./projeto_auditoria_de_recursos_corporativos/) |
+| **Projeto Auditoria de Recursos Coorporativos** | Criar um repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional.. | [Ver Projeto](./projeto-auditoria-de-recursos-corporativos/) |
 ---
  
 ### 🏗 Estrutura do Repositório
