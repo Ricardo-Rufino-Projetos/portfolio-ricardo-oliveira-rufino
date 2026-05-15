@@ -18,7 +18,7 @@ O desenvolvimento foi guiado por fluxogramas e pseudocódigo, permitindo
 uma organização clara da lógica e facilitando a futura implementação em
 linguagem de programação.
 
-![Fluxogramas do Sistema](42D18103-CC05-4446-92A4-27E83CB5E79F.pdf)
+![Fluxogramas do Sistema](FLuxo Grama.)
 
 **Figura 1:** Fluxogramas das funções do sistema (Total da Compra, Valor
 Pago, Troco e Notas).*
