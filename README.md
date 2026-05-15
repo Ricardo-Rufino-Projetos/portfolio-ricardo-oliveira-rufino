@@ -25,9 +25,9 @@ Experiência no trabalho em equipe, organização de atividades, documentação 
 
 Atualmente ampliando conhecimentos em redes corporativas, administração de servidores, monitoramento de ambientes, boas práticas de segurança, automação de tarefas e serviços em nuvem, visando crescimento profissional e consolidação de carreira na área de Tecnologia da Informação.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** Python, Windows Server, Linux (Basico), Manutenção de computadores e Servidores
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei na montagem de um servidor completo para uma empresa de pequeno porte com aproximadamente 500 funcionarios onde desenvolvi junto com a equipe a parte do DHCP e Active Director.
  
 ---
  
