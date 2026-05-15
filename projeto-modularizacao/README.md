@@ -23,7 +23,7 @@ linguagem de programação.
 **Figura 1:** Fluxogramas das funções do sistema (Total da Compra, Valor
 Pago, Troco e Notas).*
 
-![Pseudocódigo do Sistema](IMG_1707.pdf)
+![Pseudocódigo do Sistema](Pseudocigo.jfif)
 
 **Figura 2:** Pseudocódigo utilizado no desenvolvimento do sistema.*
 
