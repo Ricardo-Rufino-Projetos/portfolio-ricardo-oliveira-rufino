@@ -63,12 +63,7 @@ Atualmente ampliando conhecimentos em redes corporativas, administração de ser
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-root/: Arquivo de apresentação principal.
-/projeto-algoritmo-de-auditoria-de-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-desenhando-emojis-com-dados/:Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-engenharia-de-contexto-e-logica-fisica/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-engenharia-de-soluções-logicas/:Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-modularizacao/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-traduzindo-logica-para-python/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-/projeto-auditoria-de-recursos-corporativos/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `README.md/`: Este arquivo com a visão geral do meu portfólio e trajetória acadêmica.
+- `/cv/`: Contém meu currículo em formato PDF para visualização e dowload.
+- `/projeto-*/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
 
