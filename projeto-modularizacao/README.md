@@ -18,12 +18,12 @@ O desenvolvimento foi guiado por fluxogramas e pseudocódigo, permitindo
 uma organização clara da lógica e facilitando a futura implementação em
 linguagem de programação.
 
-![Fluxogramas do Sistema](Fluxo_Grama.jfif)
+![Fluxogramas do Sistema](Fluxograma.jpg)
 
 **Figura 1:** Fluxogramas das funções do sistema (Total da Compra, Valor
 Pago, Troco e Notas).*
 
-![Pseudocódigo do Sistema](Pseudocigo.jfif)
+![Pseudocódigo do Sistema](Pseudocodigo.jpg)
 
 **Figura 2:** Pseudocódigo utilizado no desenvolvimento do sistema.*
 
