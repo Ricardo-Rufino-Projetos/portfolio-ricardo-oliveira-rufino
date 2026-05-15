@@ -12,8 +12,18 @@
  
 ### 👨‍💻 Sobre
 Profissional de Tecnologia da Informação com experiência em suporte técnico N1/N2, atuando na manutenção de computadores e notebooks, atendimento a usuários e apoio à infraestrutura de redes corporativas. Experiência com gerenciamento de usuários em Active Directory, DHCP, suporte a ambientes Windows e resolução de incidentes via sistema de chamados.
- 
-Possuo perfil proativo, foco em resolução de problemas e facilidade para trabalhar em equipe, sempre buscando aprimoramento técnico. Atualmente direcionando minha carreira para a área de Infraestrutura, com estudos em redes, servidores
+
+Possuo perfil proativo, foco em resolução de problemas e facilidade para trabalhar em equipe, sempre buscando aprimoramento técnico. Atualmente direcionando minha carreira para a área de Infraestrutura, com estudos em redes, servidores, virtualização, segurança da informação e administração de ambientes corporativos.
+
+Tenho vivência no suporte remoto e presencial, instalação e configuração de softwares, formatação de máquinas, backup de dados, configuração de impressoras, mapeamento de rede e suporte a dispositivos diversos. Experiência no acompanhamento e tratamento de incidentes, garantindo agilidade no atendimento e satisfação dos usuários.
+
+Conhecimento em sistemas operacionais Windows 10 e 11, Windows Server, pacote Office 365, ferramentas de acesso remoto, Active Directory, políticas de usuários, permissões, configuração de rede TCP/IP, DNS e compartilhamento de arquivos e impressoras. Familiaridade com conceitos de virtualização utilizando VMware e Hyper-V, além de conhecimentos básicos em Linux.
+
+Busco constantemente evolução profissional através de cursos, estudos práticos e atualização tecnológica, com interesse em atuar cada vez mais próximo das áreas de Infraestrutura, Cloud Computing e Segurança da Informação. Tenho facilidade de aprendizado, boa comunicação e capacidade de adaptação a diferentes ambientes e demandas.
+
+Experiência no trabalho em equipe, organização de atividades, documentação de procedimentos técnicos e suporte a usuários de diferentes níveis de conhecimento. Comprometido com qualidade no atendimento, melhoria contínua e cumprimento de prazos e metas estabelecidas.
+
+Atualmente ampliando conhecimentos em redes corporativas, administração de servidores, monitoramento de ambientes, boas práticas de segurança, automação de tarefas e serviços em nuvem, visando crescimento profissional e consolidação de carreira na área de Tecnologia da Informação.
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
